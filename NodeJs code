@@ -1,4 +1,4 @@
-//NodeJs code 
+
 const add = 10 + 2;
 console.log(`The added value is (${add})`);
 
